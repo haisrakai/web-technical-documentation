@@ -4,8 +4,9 @@ body{
     color:black;
 }
 
-home{
+home, about, page1, page2{
     background-color: bisque;
     border-color: black;
-    align-items: flex-start;
+    align-self: flex-end;
 }
+
