@@ -1,0 +1,11 @@
+body{
+    background-color: cadetblue;
+    font-family: Georgia;
+    color:black;
+}
+
+home{
+    background-color: bisque;
+    border-color: black;
+    align-items: flex-start;
+}
